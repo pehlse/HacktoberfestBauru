@@ -1,0 +1,5 @@
+public sub HelloWorld ()
+
+    msgbox "Hello World em vb6!", vbinformation
+
+end sub
