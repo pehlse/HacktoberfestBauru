@@ -1,0 +1,8 @@
+{
+  "name": "HacktoberfestBauru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jerp86/HacktoberfestBauru.git",
+  "author": "jerp86 <jerp4@hotmail.com>",
+  "license": "MIT"
+}
